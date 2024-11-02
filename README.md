@@ -1,6 +1,6 @@
 # Mental Health Risk Prediction
 
-This repository contains my first data science project for **TDS 2101: Fundamental Data Science**. As my introduction to data science, this project explores mental health risk factors among college students, using machine learning classification algorithms to identify significant predictors and compare model performances.
+This repository contains my first data science project for **TDS 2101: Data Science Fundamentals**. As my introduction to data science, this project explores mental health risk factors among college students, using machine learning classification algorithms to identify significant predictors and compare model performances.
 
 ## Project Overview
 Mental health issues, including anxiety, depression, and panic attacks, are prevalent among university students who face academic and social pressures. This study, completed in my first data science course, aims to predict mental health risk factors based on demographic and academic data. By comparing various machine learning algorithms, we identify effective predictors and the best-performing model for classifying mental health risks.
